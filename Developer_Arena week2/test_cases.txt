@@ -1,0 +1,21 @@
+# test_cases.txt
+
+
+Input: 95 → Output: A
+Input: 85 → Output: B
+Input: 75 → Output: C
+Input: 65 → Output: D
+Input: 40 → Output: F
+Input: -10 → Invalid
+Input: 120 → Invalid
+Input: abc → Error handled
+
+
+---
+
+#  How to Run (Important)
+
+In terminal:
+
+```bash
+python grade_calculator.py
